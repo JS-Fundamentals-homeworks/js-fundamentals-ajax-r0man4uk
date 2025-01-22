@@ -1,5 +1,5 @@
 {
-  "name": "js-fundamentals-ajax-tasks",
+  "name": "jest",
   "jest": {
     "type": "module"
   },
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Romanchuk Yuriy",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
