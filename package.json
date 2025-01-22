@@ -17,5 +17,16 @@
   "dependencies": {
     "node-fetch": "^3.3.2",
     "puppeteer": "^21.4.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Fundamentals-homeworks/js-fundamentals-ajax-r0man4uk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JS-Fundamentals-homeworks/js-fundamentals-ajax-r0man4uk/issues"
+  },
+  "homepage": "https://github.com/JS-Fundamentals-homeworks/js-fundamentals-ajax-r0man4uk#readme"
 }
