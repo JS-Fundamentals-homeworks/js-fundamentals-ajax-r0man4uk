@@ -1,5 +1,5 @@
 {
-  "name": "jest",
+  "name": "js-fundamentals-ajax-tasks",
   "jest": {
     "type": "module"
   },
